@@ -1,5 +1,5 @@
 '''
-    FileStats.py
+    PatchLinesofCode.py
     Counts added lines of code in added in a directory of patch files.
     
     Copyright 2019, Michael Pascale
