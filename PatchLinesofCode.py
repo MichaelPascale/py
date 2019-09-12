@@ -1,6 +1,6 @@
 '''
     PatchLinesofCode.py
-    Counts added lines of code in added in a directory of patch files.
+    From a directory of patch files, tallies lines of code added.
     
     Copyright 2019, Michael Pascale
 '''
